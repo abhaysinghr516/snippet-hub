@@ -1,1 +1,3 @@
-# snippet-hub
+# Purpose of the project:
+
+The purpose of your project is to provide a platform for developers to share, search and discover code snippets, scripts, and templates. The app aims to make it easier for developers to find reusable code for their projects, saving them time and effort. By organizing the code snippets by programming language or category, the app aims to make it easier for developers to find what they need quickly. The app also includes features such as tagging and commenting, which encourage collaboration and help users understand and improve the code they find. Ultimately, the goal of the project is to foster a community of developers who can learn from each other and build better software together.
